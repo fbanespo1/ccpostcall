@@ -1,4 +1,3 @@
-```markdown
 # PostCall for Call Center - Transcription and Subtitling Tool
 
 PostCall is a user-friendly tool designed to transcribe audio and video files from call center recordings, with the option to add subtitles to the resulting transcription. This tool is built using Python and leverages the Whisper ASR (Automatic Speech Recognition) library for accurate and efficient transcription.
@@ -70,4 +69,3 @@ This tool was created by Tony Esposito.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
