@@ -71,7 +71,3 @@ This tool was created by Tony Esposito.
 
 This project is licensed under the [MIT License](LICENSE).
 ```
-
-Remember to replace `[Your Name]` in the "Credits" section with your actual name or the appropriate attribution. Additionally, ensure that you have a `LICENSE` file in your project directory if you're using the MIT License.
-
-Feel free to customize this README further to suit your preferences and project details.
