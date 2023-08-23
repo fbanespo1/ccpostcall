@@ -1,4 +1,4 @@
-# PostCall for Call Center - Transcription and Subtitling Tool
+# PostCall for any Call Center - Transcription and Subtitling Tool
 
 PostCall is a user-friendly tool designed to transcribe audio and video files from call center recordings, with the option to add subtitles to the resulting transcription. This tool is built using Python and leverages the Whisper ASR (Automatic Speech Recognition) library for accurate and efficient transcription.
 
@@ -24,6 +24,7 @@ PostCall is a user-friendly tool designed to transcribe audio and video files fr
 
    ```
    pip install whisper-asr
+   pip install customtkinter Pillow torch -f https://download.pytorch.org/whl/torch_stable.html openai-whisper
    ```
 
 3. Download and install FFmpeg from the [official website](https://ffmpeg.org/download.html).
