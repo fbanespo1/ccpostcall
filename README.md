@@ -1,5 +1,3 @@
-Sure! Here's a detailed and professional README.md file for your code:
-
 ```markdown
 # PostCall for Call Center - Transcription and Subtitling Tool
 
@@ -67,7 +65,7 @@ Contributions to this project are welcome. Feel free to open issues, suggest imp
 
 ## Credits
 
-This tool was created by [Your Name].
+This tool was created by Tony Esposito.
 
 ## License
 
